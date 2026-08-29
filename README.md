@@ -1,2 +1,6 @@
 # SQL-Portfolio
-My Portfolio showcasing my SQL skills.
+
+select *
+from public.game_sales
+ORDER BY public.game_sales.games_sold DESC
+LIMIT 10
