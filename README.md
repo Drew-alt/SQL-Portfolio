@@ -1,4 +1,4 @@
-# SQL-Portfolio
+# QUERY showing top 10 best selling games from 1 table 
 
 select *
 from public.game_sales
